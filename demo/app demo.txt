@@ -1,0 +1,28 @@
+APP.JS
+// create a function
+import './App.css'
+
+const App = () => {
+  const component =  'hello worldygeygeg'
+    return<div> <h1> use component</h1>
+    <h6 className= 'component'>{component} <b>restet<i>fvyewfvewyfvw</i></b>heefefei</h6>
+  
+  // // const Name = 'HERE I created CLASSNAME USING TO CONNECT THE APP.JS AND APP.CSS'
+  // return <div>
+  //   <h1 className='title'>React</h1>
+
+  //   <b className='title' >helllo Everyone</b>
+  //   <h2>Dhruv🌏</h2>
+  //   {/* <h2 className='Name'>{Name}</h2>          const Name remove comment then it work*/}
+
+  // </div>
+
+
+
+  
+    <h1>Netfilx</h1>
+    
+
+  </div>
+};
+export default App
